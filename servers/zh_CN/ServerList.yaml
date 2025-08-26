@@ -2045,7 +2045,7 @@
     - 群服互通
 
 - name: CHAOS SMP
-  type: Java
+  输入: Java
   version: 1.20.4-1.21.4
   desc: |
     一个禁止作弊的公益无政府服务器。
@@ -2057,7 +2057,7 @@
   ip: chaos-smp.cn
   is_member: false
   auth_mode: offline
-  tags:
+  标签:
     - 无政府
     - 公益
     - 禁止作弊
@@ -2065,7 +2065,7 @@
     - 互通服
 
 - name: HMY
-  type: Java
+  输入: Java
   version: 1.21
   desc: |
     🏡【HMY服务器】——温馨养老，建筑自由！
@@ -2087,7 +2087,7 @@
     - 多端互通
 
 - name: FunTocraft
-  type: Bedrock
+  输入: Bedrock
   version: 1.21.5x-1.21.8x
   desc: |
     服务器有完善的插件，还有各种模组等待您来游玩！
@@ -2095,11 +2095,11 @@
   ip: mc.tobecraft.xyz:25766
   is_member: false
   auth_mode: offline
-  tags:
+  标签:
     - 生存
 
 - name: 星光轨交创造服
-  type: Java
+  输入: Java
   version: 1.20.1
   desc: |
     以地铁建造和城市建筑为核心的创造服务器，主打低限制、城建的创造玩法，装有MTR模组，worldedit，一些mtr衍生模组等，您的建筑了署名创作，突出您的贡献。纯公益，本地服务器，数据安全保障，新人凭个人历史建筑图即可加入共创，较低门槛，欢迎加入。
@@ -2107,13 +2107,13 @@
   ip: mtr.8bc.top
   is_member: true
   auth_mode: offline
-  tags:
+  标签:
     - 轨道交通
     - 城建
     - 创造
 
 - name: 依易云
-  type: Java
+  输入: Java
   version: 1.21.4
   desc: |
     我们的服务器是围绕着粘液科技走的
@@ -2132,7 +2132,7 @@
     - 公益
 
 - name: 紫萱
-  type: Java
+  输入: Java
   version: 1.16.5-1.20.1
   desc: |
     Minecraft 紫萱是一个公开测试于2024/02/24，05/25正式公开的生存服务器。
@@ -2148,3 +2148,22 @@
     - 经济系统
     - 领地系统
     - 公测开启
+
+  - name: 方块落日酒馆
+  icon:
+    src: /server_icons/BST-icon.png
+  type: Java
+  version: 1.8.X-1.21.X
+  desc: 
+    我们承诺玩家是要放置在服务器发展首位的。
+    纯公益，家里云。
+    虽然不跑路，但是没办法第一时间解释服务器关闭的原因。
+    当然我们没有那么高难度的审核
+    希望能友好对待每一位玩家
+  link: https://qm.qq.com/q/tLPL3sqHCg
+  ip: https://play.gowinblog.dpdns.org/
+  is_member: false
+  标签:
+    - 生存
+    - 公益
+    - 管理友好
