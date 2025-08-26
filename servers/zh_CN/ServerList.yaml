@@ -2149,7 +2149,7 @@
     - 领地系统
     - 公测开启
 
-  - name: 方块落日酒馆
+- name: 方块落日酒馆
   type: Java
   version: 1.8.X-1.21.X
   desc: 
